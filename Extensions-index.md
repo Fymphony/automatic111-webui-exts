@@ -620,7 +620,7 @@
             "description": "Stable Horde Client. Generate pictures using other user's PC. Useful if u have no GPU.",
             "added": "2023-01-11",
             "tags": ["tab", "online"]
-        },a
+        },
         {
             "name": "Discord Rich Presence",
             "url": "https://ghproxy.com/https://github.com/kabachuha/discord-rpc-for-automatic1111-webui.git",
@@ -832,4 +832,4 @@
             "tags": ["localization"]
         }
     ]
-}}
+}}}
