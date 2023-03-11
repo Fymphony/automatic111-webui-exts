@@ -734,6 +734,20 @@
             "tags": ["manipulations"]
         },
         {
+            "name": "3D Model Loader",
+            "url": "https://ghproxy.com/https://github.com/jtydhr88/sd-3dmodel-loader.git",
+            "description": "Load your 3D model/animation inside webui, then send screenshot to txt2img or img2img to ControlNet.",
+            "added": "2023-03-11",
+            "tags": ["tab"]
+        },
+        {
+            "name": "Corridor Crawler Outpainting",
+            "url": "https://ghproxy.com/https://github.com/brick2face/corridor-crawler-outpainting.git",
+            "description": "Generate hallways with the depth-to-image model at 512 resolution. It can be tweaked to work with other models/resolutions.",
+            "added": "2023-03-11",
+            "tags": ["tab"]
+        },
+        {
             "name": "zh_CN Localization",
             "url": "https://ghproxy.com/https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
